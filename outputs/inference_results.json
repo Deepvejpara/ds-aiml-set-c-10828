@@ -1,0 +1,18 @@
+{
+    "welch_t_test": {
+        "H0": "Mean distance for G1 equals Mean distance for G2 (mu_G1 == mu_G2)",
+        "H1": "Mean distance for G1 is not equal to Mean distance for G2 (mu_G1 != mu_G2)",
+        "n_G1": 104,
+        "n_G2": 80,
+        "t_statistic": 0.7061612423464614,
+        "p_value": 0.48105881393425987,
+        "alpha": 0.05,
+        "significant": false
+    },
+    "confidence_interval_95": {
+        "sample_mean": 49.74440217391305,
+        "ci_lower": 48.16829889365394,
+        "ci_upper": 51.320505454172164,
+        "assumptions": "Independent random sampling, approximate normality of sample mean via CLT"
+    }
+}
