@@ -22,6 +22,16 @@ The workflow covers:
 
 The main analysis is contained in `notebook/exam.ipynb`.
 
+## 🎥 Video Walkthrough
+
+A complete video walkthrough of the project is available in the Google Drive folder below.
+
+The walkthrough demonstrates the project structure, implementation, model workflow, execution, and results.
+
+👉 **[Watch the Project Walkthrough](https://drive.google.com/drive/folders/1sCnfeDyKIDzG3QqJaNnSfcg1tPcpsM-E?usp=drive_link)**
+
+
+
 ## 📂 Repository Structure
 
 ```text
