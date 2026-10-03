@@ -1,0 +1,21 @@
+{
+    "diagnostics": {
+        "k=2": {
+            "k": 2,
+            "inertia": 719.632089079114,
+            "silhouette_score": 0.24633678279111973
+        },
+        "k=3": {
+            "k": 3,
+            "inertia": 599.6593984303263,
+            "silhouette_score": 0.20714705204306694
+        },
+        "k=4": {
+            "k": 4,
+            "inertia": 535.3835479833558,
+            "silhouette_score": 0.1902321793177888
+        }
+    },
+    "selected_k": 2,
+    "selection_rationale": "Highest silhouette score on transformed fit numeric features."
+}
